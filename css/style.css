@@ -1,0 +1,17 @@
+body{
+  background-image: url(https://i.ytimg.com/vi/TErp_BjM2Cc/maxresdefault.jpg);
+  background-size: cover;
+  background-repeat: repeat;
+  margin: 0;
+}
+
+h1{
+  background-color: black;
+  color: rgb(244, 166, 63);
+  margin: 0;
+  font-size: 70px;
+  font-family: 'Joti One', cursive;
+  text-align: center;
+  padding: 20px;
+
+}
